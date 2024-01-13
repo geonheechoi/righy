@@ -1,0 +1,7 @@
+{
+  "name": "TodoList",
+  "displayName": "TodoList",
+  "android": {
+    "package": "com.geonheechoi22.todolist"
+  }
+}
